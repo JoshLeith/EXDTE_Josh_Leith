@@ -18,4 +18,3 @@ print("Hello", name)
 print("{} + {} = {}".format(num_1, num_2, add))
 print("{} * {} = {}".format(num_1, num_2, multi))
 
-print(f'{num_1} * {num_2} = {multi}')
